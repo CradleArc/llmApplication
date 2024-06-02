@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3051372c-9c9e-4880-806f-4f3cdc5fbb40" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/paddle检索.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3051372c-9c9e-4880-806f-4f3cdc5fbb40" name="更改" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,6 +47,7 @@
       <updated>1717001743403</updated>
       <workItem from="1717001744887" duration="1926000" />
       <workItem from="1717054818064" duration="4002000" />
+      <workItem from="1717306779839" duration="9000" />
     </task>
     <servers />
   </component>
