@@ -5,42 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3051372c-9c9e-4880-806f-4f3cdc5fbb40" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PromptEngineer/pdf文档处理.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PromptEngineer/rag_检索.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PromptEngineer/搭建向量库.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextAnalysis/情感分析.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextAnalysis/文本分类.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Langchain_Deploy/Fastapi_llm.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LangchainUsing/Fastapi_llm.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Langchain_Deploy/LangChain_基于文档的问答.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LangchainUsing/LangChain_基于文档的问答.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Langchain_Deploy/PromptTemplate1.py" beforeDir="false" afterPath="$PROJECT_DIR$/LangchainUsing/PromptTemplate1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Langchain_Deploy/chatPdf.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LangchainUsing/chatPdf.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Langchain_Deploy/chatglm部署.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LangchainUsing/chatglm部署.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Langchain_Deploy/fastMain.py" beforeDir="false" afterPath="$PROJECT_DIR$/LangchainUsing/fastMain.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Langchain_Deploy/product_llm.py" beforeDir="false" afterPath="$PROJECT_DIR$/LangchainUsing/product_llm.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Langchain_Deploy/vecDatabase/Case-Faiss使用/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LangchainUsing/vecDatabase/Case-Faiss使用/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Langchain_Deploy/vecDatabase/Case-Faiss使用/.ipynb_checkpoints/faiss_demo1-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LangchainUsing/vecDatabase/Case-Faiss使用/.ipynb_checkpoints/faiss_demo1-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Langchain_Deploy/vecDatabase/Case-Faiss使用/.ipynb_checkpoints/faiss_text-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LangchainUsing/vecDatabase/Case-Faiss使用/.ipynb_checkpoints/faiss_text-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Langchain_Deploy/vecDatabase/Case-Faiss使用/.ipynb_checkpoints/test1-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LangchainUsing/vecDatabase/Case-Faiss使用/.ipynb_checkpoints/test1-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Langchain_Deploy/vecDatabase/Case-Faiss使用/.ipynb_checkpoints/text_faiss1-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LangchainUsing/vecDatabase/Case-Faiss使用/.ipynb_checkpoints/text_faiss1-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Langchain_Deploy/vecDatabase/Case-Faiss使用/faiss_demo1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LangchainUsing/vecDatabase/Case-Faiss使用/faiss_demo1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Langchain_Deploy/vecDatabase/Case-Faiss使用/faiss_text.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LangchainUsing/vecDatabase/Case-Faiss使用/faiss_text.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Langchain_Deploy/vecDatabase/Case-Faiss使用/text_faiss1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LangchainUsing/vecDatabase/Case-Faiss使用/text_faiss1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Langchain_Deploy/vecDatabase/Case-Faiss使用/text_similarity/.ipynb_checkpoints/faiss_demo1-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LangchainUsing/vecDatabase/Case-Faiss使用/text_similarity/.ipynb_checkpoints/faiss_demo1-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Langchain_Deploy/vecDatabase/Case-Faiss使用/text_similarity/.ipynb_checkpoints/kmeans_text-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LangchainUsing/vecDatabase/Case-Faiss使用/text_similarity/.ipynb_checkpoints/kmeans_text-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Langchain_Deploy/vecDatabase/Case-Faiss使用/text_similarity/.ipynb_checkpoints/text_faiss1-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LangchainUsing/vecDatabase/Case-Faiss使用/text_similarity/.ipynb_checkpoints/text_faiss1-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Langchain_Deploy/vecDatabase/Case-Faiss使用/text_similarity/chinese_stopwords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LangchainUsing/vecDatabase/Case-Faiss使用/text_similarity/chinese_stopwords.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Langchain_Deploy/vecDatabase/Case-Faiss使用/text_similarity/faiss_demo1.py" beforeDir="false" afterPath="$PROJECT_DIR$/LangchainUsing/vecDatabase/Case-Faiss使用/text_similarity/faiss_demo1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Langchain_Deploy/vecDatabase/Case-Faiss使用/text_similarity/kmeans_text.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LangchainUsing/vecDatabase/Case-Faiss使用/text_similarity/kmeans_text.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Langchain_Deploy/vecDatabase/Case-Faiss使用/text_similarity/sqlResult.zip" beforeDir="false" afterPath="$PROJECT_DIR$/LangchainUsing/vecDatabase/Case-Faiss使用/text_similarity/sqlResult.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Langchain_Deploy/vecDatabase/chatpdf_faiss.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LangchainUsing/vecDatabase/chatpdf_faiss.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Langchain_Deploy/vecDatabase/word2vec/journey_to_the_west/segment/segment_0.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LangchainUsing/vecDatabase/word2vec/journey_to_the_west/segment/segment_0.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Langchain_Deploy/vecDatabase/word2vec/journey_to_the_west/source/journey_to_the_west.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LangchainUsing/vecDatabase/word2vec/journey_to_the_west/source/journey_to_the_west.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Langchain_Deploy/vecDatabase/word2vec/models/word2Vec.model" beforeDir="false" afterPath="$PROJECT_DIR$/LangchainUsing/vecDatabase/word2vec/models/word2Vec.model" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Langchain_Deploy/vecDatabase/word2vec/utils/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/LangchainUsing/vecDatabase/word2vec/utils/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Langchain_Deploy/vecDatabase/word2vec/utils/create_batch_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/LangchainUsing/vecDatabase/word2vec/utils/create_batch_data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Langchain_Deploy/vecDatabase/word2vec/utils/create_word2vec.py" beforeDir="false" afterPath="$PROJECT_DIR$/LangchainUsing/vecDatabase/word2vec/utils/create_word2vec.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Langchain_Deploy/vecDatabase/word2vec/utils/files_processing.py" beforeDir="false" afterPath="$PROJECT_DIR$/LangchainUsing/vecDatabase/word2vec/utils/files_processing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Langchain_Deploy/vecDatabase/word2vec/utils/segment.py" beforeDir="false" afterPath="$PROJECT_DIR$/LangchainUsing/vecDatabase/word2vec/utils/segment.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Langchain_Deploy/vecDatabase/word2vec/word_seg.py" beforeDir="false" afterPath="$PROJECT_DIR$/LangchainUsing/vecDatabase/word2vec/word_seg.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Langchain_Deploy/vecDatabase/word2vec/word_similarity.py" beforeDir="false" afterPath="$PROJECT_DIR$/LangchainUsing/vecDatabase/word2vec/word_similarity.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Langchain_Deploy/web_demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/LangchainUsing/web_demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/llama_rag.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paddle检索.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,9 +51,16 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\system_default\desktop\Github_repo_code\llmApplication\PromptEngineer" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
@@ -94,6 +76,11 @@
       <workItem from="1717307026198" duration="3293000" />
       <workItem from="1717421592626" duration="770000" />
       <workItem from="1717435757971" duration="1555000" />
+      <workItem from="1717483965013" duration="2202000" />
+      <workItem from="1717515194560" duration="92000" />
+      <workItem from="1717515294891" duration="2183000" />
+      <workItem from="1717555361368" duration="28000" />
+      <workItem from="1717555401522" duration="2769000" />
     </task>
     <servers />
   </component>
