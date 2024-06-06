@@ -5,17 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3051372c-9c9e-4880-806f-4f3cdc5fbb40" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PromptEngineer/pdf文档处理.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PromptEngineer/rag_检索.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PromptEngineer/搭建向量库.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TextAnalysis/情感分析.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TextAnalysis/文本分类.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/paddle_抽取问答.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/working/RAG/app.gradio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/working/RAG/common.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/working/RAG/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/working/RAG/企业级RAG应用.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/csv-editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/csv-editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/llama_rag.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/paddle检索.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LangchainUsing/Fastapi_llm.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LangchainUsing/fastapi_llm.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LangchainUsing/LangChain_基于文档的问答.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LangchainUsing/基于文档的问答.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LangchainUsing/PromptTemplate1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LangchainUsing/chatglm部署.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LangchainUsing/fastMain.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PromptEngineer/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/working/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PromptEngineer/pdf文档处理.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/working/pdf文档处理.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PromptEngineer/rag_检索.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/working/rag_检索.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PromptEngineer/搭建向量库.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/utils/paddle_情感分析.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tianyoude/ll_deal.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tianyoude/ll_traindata.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tianyoude/output.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tianyoude/sfas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tianyoude/testTianyoude.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tianyoude/textDeal.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/llm_api.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/paddle检索.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/utils/paddle_命名实体识别.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,24 +54,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/system_default/desktop/Github_repo_code/llmApplication/working/RAG",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\system_default\desktop\Github_repo_code\llmApplication\working\RAG" />
+      <recent name="D:\system_default\desktop\Github_repo_code\llmApplication\working\data" />
+      <recent name="D:\system_default\desktop\Github_repo_code\llmApplication\working" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\system_default\desktop\Github_repo_code\llmApplication\working\RAG" />
       <recent name="D:\system_default\desktop\Github_repo_code\llmApplication\PromptEngineer" />
     </key>
   </component>
@@ -81,6 +102,7 @@
       <workItem from="1717515294891" duration="2183000" />
       <workItem from="1717555361368" duration="28000" />
       <workItem from="1717555401522" duration="2769000" />
+      <workItem from="1717659083210" duration="6128000" />
     </task>
     <servers />
   </component>
