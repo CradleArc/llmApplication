@@ -1,0 +1,45 @@
+## ERNIE SDK 简介
+ERNIE SDK 提供了一系列工具和接口，帮助开发者快速构建和部署基于 ERNIE 模型的应用。详细的使用指南可以参考 [ERNIE SDK 使用文档](https://ernie-bot-agent.readthedocs.io/zh-cn/latest/)。
+
+## 如何调用文心一言 API
+调用文心一言 API 的详细步骤可以参考 [文心一言 API 使用文档](https://ernie-bot-agent.readthedocs.io/zh-cn/latest/)。
+
+## 基于文心大模型的能力开发应用
+可以前往飞桨星河社区进行应用开发，平台支持零代码开发和 Notebook 开发两种方式。详细教程请参考 [应用开发教程合集](https://aistudio.baidu.com/topic/tutorial)。若有进一步开发需求请联系飞桨星河社区的工作人员。
+
+## 访问令牌/Token Key 获取
+Token Key 地址： [获取 Token Key](https://aistudio.baidu.com/usercenter/token)
+
+## Token 包兑换与购买
+- **兑换 Token 包**：星河社区首页右上角控制台 -> 点击 Token 余额 -> 兑换 Token -> 输入兑换码
+- **购买 Token**：星河社区首页右上角控制台 -> 点击 Token 余额 -> 购买 Token -> 扫码支付
+
+## 应用部署与发布
+1. 星河社区首页左侧边栏选择“应用” -> 我创建的 -> 找到待发布的应用 -> 右上角点击发布。
+2. 发布时可以设置封面图、应用名称，以及选择是否公开源项目。
+
+## 前端静态资源部署
+AI Studio 现已支持前端静态资源部署功能，开发者可以在项目中自由编辑定制开发前端代码，开发后可一键将静态资源包部署为公网服务。申请地址：[前端静态资源部署功能](https://aistudio.baidu.com/activitydetail/1503019310)。
+
+## 问题与解决方案
+- **服务访问过于频繁**：增加 `time sleep` 设置，若仍报错则可能是平台的 QPS 达到限额，建议换个时间段运行。
+- **Notebook 文件夹中文乱码**：用 Linux 的命令压缩，示例如下：`!zip 压缩文件名称.zip 你需要压缩的文件`
+- **报错 “No module named erniebot”**：在命令行安装 `erniebot` 依赖，命令如下：`!pip install --upgrade erniebot --user`，并重启内核。
+- **Notebook 项目草稿被版本覆盖**：版本只是相当于打 tag，在项目详情页“版本”下拉可以看到草稿记录，选择草稿然后启动环境即可。
+- **服务并发超限**：建议换一个时间段重新尝试调用。
+
+## 插件开发与使用
+- 插件开发文档：[文心一言插件开发文档](https://yiyan.baidu.com/developer/doc)
+- 插件开发教程：[插件开发教程](https://aistudio.baidu.com/education/group/info/30125)
+- 插件配置与触发：可以在 `example.yaml` 文件中配置多个工具，启用 `enable_multi_step_tool_call` 参数。
+- 获取用户完整输入内容：通过定义新的参数描述为用户原始问题，可以在插件中获取。
+
+## PaddleX 相关说明
+- **PaddleX Windows 本地端软件**：需要登录使用，不支持纯离线环境。强烈建议按照官方文档下载 CUDA 和 cuDNN，并放到指定目录使用。
+- **PaddleX Linux 本地端**：已正式发布，支持纯离线环境使用。详情参考 [PaddleX 本地端](https://aistudio.baidu.com/intro/paddlex#paddleX-local)。
+- **实例分割模型**：目前暂未支持，但已在规划中。
+- **手写体 OCR 模型**：建议基于自己的场景标注数据后进行模型训练微调。
+- **多模型串联**：PaddleX 中的「主流 AI 任务体验」模型产线，部分包含了多模型串联的能力，可以获取其部署包并替换子模型完成特定任务。
+
+## 联系与咨询
+若需要咨询 PaddleX 产品的价格，请前往 [PaddleX 商业化咨询](https://aistudio.baidu.com/paddlex/commercialization) 点击「立即咨询」。

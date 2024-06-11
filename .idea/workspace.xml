@@ -1,47 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3051372c-9c9e-4880-806f-4f3cdc5fbb40" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/utils/paddle_抽取问答.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/working/RAG/app.gradio.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/working/RAG/common.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/working/RAG/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/working/RAG/企业级RAG应用.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/csv-editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/csv-editor.xml" afterDir="false" />
+    <list default="true" id="acfb75f3-4427-472a-9c3d-f719182d0c39" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/utils/paddle_知识图谱问答.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/working/知识图谱_优质文章识别/main.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/csv-editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/llmApplication.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LangchainUsing/Fastapi_llm.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LangchainUsing/fastapi_llm.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LangchainUsing/LangChain_基于文档的问答.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LangchainUsing/基于文档的问答.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LangchainUsing/PromptTemplate1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LangchainUsing/chatglm部署.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LangchainUsing/fastMain.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PromptEngineer/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/working/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PromptEngineer/pdf文档处理.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/working/pdf文档处理.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PromptEngineer/rag_检索.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/working/rag_检索.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PromptEngineer/搭建向量库.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/utils/paddle_情感分析.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tianyoude/ll_deal.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tianyoude/ll_traindata.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tianyoude/output.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tianyoude/sfas.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tianyoude/testTianyoude.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tianyoude/textDeal.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/llm_api.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/paddle检索.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/utils/paddle_命名实体识别.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/paddle_ocr中文识别.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/utils/paddle_ocr中文识别.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Jupyter Notebook" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -49,7 +25,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2h9MGEyX0h7Z244anUWKSie1oyX" />
+  <component name="ProjectId" id="2hjpHCxvb6p1RvfwAHILWQ8zdjz" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -60,49 +36,20 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/system_default/desktop/Github_repo_code/llmApplication/working/RAG",
     "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\system_default\desktop\Github_repo_code\llmApplication\working\RAG" />
-      <recent name="D:\system_default\desktop\Github_repo_code\llmApplication\working\data" />
-      <recent name="D:\system_default\desktop\Github_repo_code\llmApplication\working" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\system_default\desktop\Github_repo_code\llmApplication\working\RAG" />
-      <recent name="D:\system_default\desktop\Github_repo_code\llmApplication\PromptEngineer" />
-    </key>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
-      <changelist id="3051372c-9c9e-4880-806f-4f3cdc5fbb40" name="更改" comment="" />
-      <created>1717001743403</created>
+      <changelist id="acfb75f3-4427-472a-9c3d-f719182d0c39" name="更改" comment="" />
+      <created>1718117253196</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1717001743403</updated>
-      <workItem from="1717001744887" duration="1926000" />
-      <workItem from="1717054818064" duration="4002000" />
-      <workItem from="1717306779839" duration="9000" />
-      <workItem from="1717306859108" duration="83000" />
-      <workItem from="1717307026198" duration="3293000" />
-      <workItem from="1717421592626" duration="770000" />
-      <workItem from="1717435757971" duration="1555000" />
-      <workItem from="1717483965013" duration="2202000" />
-      <workItem from="1717515194560" duration="92000" />
-      <workItem from="1717515294891" duration="2183000" />
-      <workItem from="1717555361368" duration="28000" />
-      <workItem from="1717555401522" duration="2769000" />
-      <workItem from="1717659083210" duration="6128000" />
+      <updated>1718117253196</updated>
+      <workItem from="1718117257474" duration="113000" />
     </task>
     <servers />
   </component>
