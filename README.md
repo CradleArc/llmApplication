@@ -1,9 +1,13 @@
 
+## 项目结构说明
 
 
-# 大模型应用实践 ~~ 持续更新
+- LangchainUsing：Langchain对文档的综合应用。
+- TextAnalysis： 传统的NLP任务，以 paddle 框架实现。
+- utils：文本任务中常见的方案。
+- working：应用到企业级的 Agent 和向量数据库的应用。
 
-## AI Studio
+## 语言模型项目应用
 
 #### 搜索推荐系列
 
@@ -30,9 +34,6 @@
 * ERNIE Bot魔改SD的webUI，生成专属字符图 https://aistudio.baidu.com/projectdetail/6951379?channelType=0&channel=0
 
 * 一键AI抠图，证件照换背景，可部署成自己的应用 https://aistudio.baidu.com/projectdetail/7580793?channelType=0&channel=0
-
-
-
 
 ## 搭建向量数据库
 
