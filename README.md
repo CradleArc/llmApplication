@@ -1,41 +1,38 @@
 
 ## 项目结构说明
 
-
 - LangchainUsing：Langchain对文档的综合应用。
-- TextAnalysis： 传统的NLP任务，以 paddle 框架实现。
-- utils：文本任务中常见的方案。
-- working：应用到企业级的 Agent 和向量数据库的应用。
+- Text： 传统的NLP任务，以 paddle 框架实现。
+- Tasks：文本任务中常见的方案。
+- Working：企业级的 Agent 应用。
 
-## 语言模型项目应用
+## 一、Application
+#### llmApplication/LangchainUsing：
+* wordwvec
+* Case-Faiss使用
+* pdf-faiss-embedding
+* rag-weaviate-llama3
+* pdf-清洗
 
-#### 搜索推荐系列
+#### llmApplication/Text: 
+* 情感分析-paddle
+* 文本分类-paddle
 
-* PaddleRec -- 基于MovieLens数据集的电影推荐系统 https://aistudio.baidu.com/projectdetail/559336?channelType=0&channel=0
+#### llmApplication/Tasks:
+* fastapi-llm
+* ocr中文识别-paddle
+* 命名实体识别-paddle
+* 情感分析-paddle
+* 抽取回答-paddle
+* 知识图谱回答-paddle
 
-* 动手搭建一套端到端文本语义检索系统 https://aistudio.baidu.com/projectdetail/3351784?channelType=0&channel=0
+#### llmApplication/Working: 
+* KBQA-知识库问答
+* RAG
+* RAG-Agent
+* 知识图谱-优质文章识别
 
-#### 文生图系列 
-
-* 【有手就会系列】四步教你生成二次元小姐姐 https://aistudio.baidu.com/projectdetail/4666819?channelType=0&channel=0
-
-* 想定制自己的文图生成模型吗？想画什么画什么 https://aistudio.baidu.com/projectdetail/4905623?channelType=0&channel=0
-
-#### LLM系列
-
-* 基于 ERNIE Bot 和 LLM2Json 的问卷生成器 https://aistudio.baidu.com/projectdetail/7431608?channelType=0&channel=0
-
-* 基于PP-OCR和ErnieBot的智能视频问答 https://aistudio.baidu.com/projectdetail/7892508?channelType=0&channel=0
-
-#### 图像系列
-
-* PaddleHub一键OCR中文识别（超轻量8.1M模型，火爆）https://aistudio.baidu.com/projectdetail/507159?channelType=0&channel=0
-
-* ERNIE Bot魔改SD的webUI，生成专属字符图 https://aistudio.baidu.com/projectdetail/6951379?channelType=0&channel=0
-
-* 一键AI抠图，证件照换背景，可部署成自己的应用 https://aistudio.baidu.com/projectdetail/7580793?channelType=0&channel=0
-
-## 搭建向量数据库
+## 二、Vector Database
 
 ### 词向量的优势
 

@@ -7,6 +7,16 @@
     <list default="true" id="acfb75f3-4427-472a-9c3d-f719182d0c39" name="更改" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TextAnalysis/情感分析.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Text/情感分析.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TextAnalysis/文本分类.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Text/文本分类.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/fastapi_llm.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/fastapi_llm.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/paddle_ocr中文识别.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/paddle_ocr中文识别.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/paddle_命名实体识别.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/paddle_命名实体识别.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/paddle_情感分析.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/paddle_情感分析.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/paddle_抽取问答.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/paddle_抽取问答.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/paddle_知识图谱问答.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/paddle_知识图谱问答.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/product_llm.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/product_llm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/web_demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/web_demo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,19 +34,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
@@ -48,6 +58,8 @@
       <workItem from="1718117257474" duration="113000" />
       <workItem from="1718117415184" duration="98000" />
       <workItem from="1718132030991" duration="569000" />
+      <workItem from="1718177442427" duration="328000" />
+      <workItem from="1718178127617" duration="929000" />
     </task>
     <servers />
   </component>
